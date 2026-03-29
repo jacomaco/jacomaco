@@ -36,24 +36,6 @@ Jag är en passionerad utvecklare som älskar att bygga robusta och skalbara web
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacomaco&show_icons=true&theme=tokyonight" alt="Jacobs GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacomaco&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-&nbsp;
-
-![Jacobs GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacomaco&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacomaco&layout=compact&theme=tokyonight)
-
-&nbsp;
----
-
 ### 🤝 Låt oss nätverka!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jacob-johansson-bb2312234)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobknuts@gmail.com)
-
----
-*Byggd med kod och kaffe ☕*
