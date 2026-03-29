@@ -36,6 +36,9 @@ Jag är en passionerad utvecklare som älskar att bygga robusta och skalbara web
 
 ---
 
+### 📊 GitHub Stats
+[![Jacomaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacomaco)](https://github.com/jacomaco/github-readme-stats)
+
 ### 🤝 Låt oss nätverka!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jacob-johansson-bb2312234)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobknuts@gmail.com)
