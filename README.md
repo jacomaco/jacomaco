@@ -42,7 +42,13 @@ Jag är en passionerad utvecklare som älskar att bygga robusta och skalbara web
   <img src="https://github-readme-stats.vercel.app/api?username=jacomaco&show_icons=true&theme=tokyonight" alt="Jacobs GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacomaco&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+&nbsp;
 
+![Jacobs GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacomaco&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacomaco&layout=compact&theme=tokyonight)
+
+&nbsp;
 ---
 
 ### 🤝 Låt oss nätverka!
