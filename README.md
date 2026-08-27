@@ -4,7 +4,7 @@
 
 -  Driver **[Star Match](https://www.starmatch.se/)** – en fullstack ATS-plattform.
 -  Filar även på **Jobbql** – ett automatiserings-verktyg för jobbsökning.
-- 📬 Kontakta mig på: [jacobknuts@gmail.com](mailto:jacobknuts@gmail.com)
+- 📬 Kontakta mig på: [jacobknuts@gmail.com](mailto:jacobknuts@gmail.com) | [Jacobjohansson1@protonmail.com](mailto:Jacobjohansson1@protonmail.com)
 - 🌐 Se min portfolio: **[jacomaco.github.io/portfolio](https://jacomaco.github.io/portfolio/)**
 
 ---
